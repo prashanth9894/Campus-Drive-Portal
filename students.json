@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ananya Krishnan",
+    "company": "Infosys",
+    "role": "Systems Engineer",
+    "status": "Selected"
+  },
+  {
+    "name": "Rahul Mehta",
+    "company": "Wipro",
+    "role": "Software Developer",
+    "status": "Selected"
+  },
+  {
+    "name": "Priya Nair",
+    "company": "TCS",
+    "role": "Associate Consultant",
+    "status": "Selected"
+  },
+  {
+    "name": "Arjun Sharma",
+    "company": "Cognizant",
+    "role": "Programmer Analyst",
+    "status": "In Process"
+  },
+  {
+    "name": "Divya Patel",
+    "company": "Accenture",
+    "role": "Associate Software Engineer",
+    "status": "Selected"
+  },
+  {
+    "name": "Karthik Reddy",
+    "company": "HCL Technologies",
+    "role": "Graduate Engineer Trainee",
+    "status": "In Process"
+  }
+]
